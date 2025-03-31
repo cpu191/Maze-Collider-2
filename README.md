@@ -12,19 +12,16 @@ ROS integration: Using ROS for sensor data, localization, and mapping.
 Simulation environment: Running tests in Gazebo/rviz with realistic scenarios.
 
 1. Goals
-Strengthen practical experience with robotics software development.
 
-Gain hands-on experience with motion planning and autonomous navigation.
-
-Build a portfolio-worthy project showcasing applied robotics skills.
+  Strengthen practical experience with robotics software development.
+  Gain hands-on experience with motion planning and autonomous navigation.
+  Build a portfolio-worthy project showcasing applied robotics skills.
 
 2.Tools & Technologies
-ROS2 (Robot Operating System)
 
-C++ / Python
-
-Gazebo / rviz
-
-Navigation Stack / SLAM
+  ROS2 (Robot Operating System)
+  C++ / Python
+  Gazebo / rviz
+  Navigation Stack / SLAM
 
 This project is a work in progress, and contributions or feedback are welcome! 🚀
